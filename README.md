@@ -1,50 +1,64 @@
-<h2 align="left">Hi 👋! My name is Javier and I'm a Deverloper from VietNam</h2>
+## Hi there 👋
+  
+I'm **Javier**,a developer from Vietnam. I'm passionate about web development and software, and I enjoy using technology to solve problems and create new things.
 
-###
+I have experience in `Javascript`, `Java`, `C#`, and I'm always looking to learn more and expand my knowledge. Some of my recent projects include my projects, and you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
+
+![](https://komarev.com/ghpvc/?username=javier1234559&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
+## Statistics
+
+<div align="center">	
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=javier1234559&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=javier1234559&show_icons=true&theme=tokyonight" />
+</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=javier1234559" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&username=javier1234559" height="150" alt="languages graph"  />
+  
+ ![snake gif](https://github.com/javier1234559/javier1234559/blob/output/github-contribution-grid-snake.gif)
+  
 </div>
 
-###
+## Knowledge
+**Languages**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/javier1234559/)
+[![C++](https://img.shields.io/badge/c++-000?style=flat-square&logo=c%2B%2B&logoColor=00599c)](https://github.com/javier1234559/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/javier1234559/)
+[![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=310080)](https://github.com/javier1234559/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)](https://github.com/javier1234559/)
 
-###
+**Database**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" width="42" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-</div>
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/javier1234559/)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver)](https://github.com/javier1234559/)
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)](https://github.com/javier1234559/)
 
-###
+**Front-end**
 
-<div align="left">
-  <a href="https://www.youtube.com/@minhnhatnguyen8200/featured" ><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /><a/>
-  <a href="https://www.instagram.com/nhat1234559/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /><a/>
-  <a href="nhat1234559@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><a/>
-  <a href="https://discord.gg\hj86G4Nt"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /><a/>
-  <a href="https://www.linkedin.com/in/minh-nh%E1%BA%ADt-nguy%E1%BB%85n-044535242/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /><a/>
-  <a href="https://www.facebook.com/minhnhat.nguyen.948494"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /><a/>
-</div>
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/javier1234559/)
+[![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/javier1234559/)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)](https://github.com/javier1234559/)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://github.com/javier1234559/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/javier1234559/)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)](https://github.com/javier1234559/)
 
-###
+**Framework**
 
-<br clear="both">
+[![React](https://img.shields.io/badge/react-000?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/javier1234559/)
+[![Spring](https://img.shields.io/badge/spring-000.svg?style=flat-square&logo=spring&logoColor=green)](https://github.com/javier1234559/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)](https://github.com/javier1234559/)
+[![.Net](https://img.shields.io/badge/.NET-000?style=flat-square&logo=.net&logoColor=5C2D91)](https://github.com/javier1234559/)
 
+**Hosting/SaaS**
 
-![snake gif](https://github.com/javier1234559/javier1234559/blob/output/github-contribution-grid-snake.gif)
-###
+[![Heroku](https://img.shields.io/badge/heroku-000.svg?style=flat-square&logo=heroku&logoColor=%23430098)](https://github.com/javier1234559/)
+[![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)](https://github.com/javier1234559/)
+[![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=%23FF9900)](https://github.com/javier1234559/)
+[!![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)](https://github.com/javier1234559/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://github.com/javier1234559/)
+
+**Tools**
+
+[![Figmae](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://github.com/javier1234559/)
+[![Git](https://img.shields.io/badge/git-000?style=flat-square&logo=git&logoColor=%23F05033)](https://github.com/javier1234559/)
