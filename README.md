@@ -22,6 +22,7 @@ I have experience in `Javascript`, `Java` and I'm always looking to learn more a
 ## Knowledge
 **Languages**
 
+[![TypeScript](https://shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=#3178c6&style=flat-square)](https://github.com/javier1234559/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/javier1234559/)
 [![C++](https://img.shields.io/badge/c++-000?style=flat-square&logo=c%2B%2B&logoColor=00599c)](https://github.com/javier1234559/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://github.com/javier1234559/)
