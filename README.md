@@ -2,7 +2,7 @@
   
 I'm **Javier**,a developer from Vietnam. I'm passionate about web development and software, and I enjoy using technology to solve problems and create new things.
 
-My main languages i use for programing are `Javascript`, `Java` and I'm always looking to learn more and expand my knowledge. Some of my recent projects , and you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
+The main languages i use for programing are `Javascript`, `Java` and I'm always looking to learn more and expand my knowledge. Some of my recent projects you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
 
 ![](https://komarev.com/ghpvc/?username=javier1234559&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
@@ -18,6 +18,8 @@ My main languages i use for programing are `Javascript`, `Java` and I'm always l
  ![snake gif](https://github.com/javier1234559/javier1234559/blob/output/github-contribution-grid-snake.gif)
   
 </div>
+
+**Note** : Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.
 
 ## Knowledge
 **Languages**
