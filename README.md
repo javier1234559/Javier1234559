@@ -2,7 +2,7 @@
   
 I'm **Javier**,a developer from Vietnam. I'm passionate about web development and software, and I enjoy using technology to solve problems and create new things.
 
-I have experience in `Javascript`, `Java` and I'm always looking to learn more and expand my knowledge. Some of my recent projects include my projects, and you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
+My main languages i use for programing are `Javascript`, `Java` and I'm always looking to learn more and expand my knowledge. Some of my recent projects , and you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
 
 ![](https://komarev.com/ghpvc/?username=javier1234559&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
