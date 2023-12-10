@@ -14,10 +14,18 @@ The main languages i use for programing are `Javascript`, `Java` and I'm always 
 </div>
 
 <div align="center">
-  
- ![snake gif](https://github.com/javier1234559/javier1234559/blob/output/github-contribution-grid-snake.gif)
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javier1234559&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   
 </div>
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 
 **Note** : Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.
 
