@@ -1,17 +1,23 @@
 ## Hi there 👋
   
-I'm **Javier**,a developer from Vietnam. I'm passionate about web development and software, and I enjoy using technology to solve problems and create new things.
+I'm **Javier**, a developer from Vietnam. I'm passionate about web development and software and enjoy using technology to solve problems and create new things.
 
-The main languages i use for programing are `Javascript`, `Java` and I'm always looking to learn more and expand my knowledge. Some of my recent projects you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
+The main language I use for programming is `Javascript`. I'm always looking to learn more and expand my knowledge. Some of my recent projects you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
+
 
 ![](https://komarev.com/ghpvc/?username=javier1234559&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 ## Statistics
 
+
+
 <div align="center">	
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=javier1234559&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=javier1234559&show_icons=true&theme=tokyonight" />
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=javier1234559&theme=react-dark&hide_border=true" />
+
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javier1234559&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -27,7 +33,7 @@ The main languages i use for programing are `Javascript`, `Java` and I'm always 
 </div>
 
 
-**Note** : Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.
+**Note**: The languages and tools included below are only those programming languages and tools I have been using, so they don't reflect my experience or skill level.
 
 ## Knowledge
 **Languages**
