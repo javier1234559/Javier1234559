@@ -2,7 +2,7 @@
   
 I'm **Javier**, a developer from Vietnam. I'm passionate about web development and software and enjoy using technology to solve problems and create new things.
 
-The main language I use for programming is `Javascript`. I'm always looking to learn more and expand my knowledge. Some of my recent projects you can find more about them on my GitHub page or visit my portfolio website at https://javier1234559.github.io/Javersy-Portfolio/
+The main language I use for programming is `Javascript`. I'm always looking to learn more and expand my knowledge. Some of my recent projects you can find more about them on my GitHub page or visit my portfolio website at [Blogs](https://nhatng.vercel.app/)
 
 
 ![](https://komarev.com/ghpvc/?username=javier1234559&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
